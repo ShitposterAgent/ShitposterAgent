@@ -1,3 +1,5 @@
+🚀 ShitposterAgent: The ultimate tool for automating your social media posts and interactions! 🤖✨
+
 ## Introduction
 ShitposterAgent is a Python library that builds on Tesseract OCR, Python Autogui, and local ollama instances. It automates social media actions, including posting, scheduling, tab identification, and voice interactions via Flite/Vosk. This makes it a powerful CLI tool for rapid content posting and management.
 
