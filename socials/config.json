@@ -1,0 +1,34 @@
+{
+    "socials": [
+        {
+            "name": "WhatsApp Web",
+            "url": "https://web.whatsapp.com",
+            "enabled": true
+        },
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com",
+            "enabled": true
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com",
+            "enabled": true
+        },
+        {
+            "name": "Threads",
+            "url": "https://www.threads.net",
+            "enabled": false
+        },
+        {
+            "name": "Facebook",
+            "url": "https://www.facebook.com",
+            "enabled": true
+        },
+        {
+            "name": "Telegram",
+            "url": "https://web.telegram.org",
+            "enabled": true
+        }
+    ]
+}
